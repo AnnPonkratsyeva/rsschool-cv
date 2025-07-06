@@ -1,5 +1,7 @@
 # __HANNA PANKRATSYEVA__
 
+<img align="left" alt="My photo" src="./image/my_photo.jpg" width="260" >
+
 ## ***Contact info***
 |**Type of contact**|**Contact**|
 |:----:|:----:|
